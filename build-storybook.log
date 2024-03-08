@@ -1,0 +1,279 @@
+
+> taskbox@0.2.0 build-storybook
+> ng run taskbox:build-storybook --output-dir C:\Users\HRISTO~1.KOS\AppData\Local\Temp\chromatic--17452-KzXvCEInKT5F
+
+[0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+
+1.1.23
+
+TypeScript version used by Compodoc : 5.2.2
+
+TypeScript version of current project : 5.2.2
+
+Node.js version : v20.11.1
+
+Operating system : Windows 10
+
+[14:10:19] No configuration file found, switching to CLI flags.
+[14:10:19] Using tsconfig file : C:\Users\hristofor.kostadinov\Test Projects\Storybook\taskbox\.storybook\tsconfig.json
+[14:10:19] Including      : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/.storybook/preview.ts
+[14:10:19] Excluding      : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/favicon.ico
+[14:10:19] Excluding      : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/index.html
+[14:10:19] Including      : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/main.ts
+[14:10:19] Including      : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/polyfills.ts
+[14:10:19] Excluding      : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/styles.css
+[14:10:19] Excluding      : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/app/app.component.css
+[14:10:19] Excluding      : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/app/app.component.html
+[14:10:19] Including      : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/app/app.component.ts
+[14:10:19] Including      : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/app/app.module.ts
+[14:10:19] Including      : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/environments/environment.prod.ts
+[14:10:19] Including      : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/environments/environment.ts
+[14:10:19] Including      : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/stories/button.component.ts
+[14:10:19] Excluding      : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/stories/button.css
+[14:10:19] Including      : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/stories/Button.stories.ts
+[14:10:19] Including      : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/stories/header.component.ts
+[14:10:19] Excluding      : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/stories/header.css
+[14:10:19] Including      : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/stories/Header.stories.ts
+[14:10:19] Excluding      : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/stories/Introduction.mdx
+[14:10:19] Including      : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/stories/page.component.ts
+[14:10:19] Excluding      : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/stories/page.css
+[14:10:19] Including      : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/stories/Page.stories.ts
+[14:10:19] Including      : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/stories/User.ts
+[14:10:19] Including      : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/app/components/inbox-screen.component.ts
+[14:10:19] Including      : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/app/components/pure-inbox-screen.component.ts
+[14:10:19] Including      : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/app/components/pure-inbox-screen.stories.ts
+[14:10:19] Including      : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/app/components/pure-task-list.component.ts
+[14:10:19] Including      : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/app/components/pure-task-list.stories.ts
+[14:10:19] Including      : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/app/components/task-list.component.ts
+[14:10:19] Including      : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/app/components/task.component.ts
+[14:10:19] Including      : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/app/components/task.module.ts
+[14:10:19] Including      : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/app/components/task.stories.ts
+[14:10:19] Including      : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/app/models/task.model.ts
+[14:10:19] Including      : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/app/state/task.state.ts
+[14:10:19] Excluding      : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/assets/font/OpenSans-Light-webfont.eot
+[14:10:19] Excluding      : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/assets/font/OpenSans-Light-webfont.svg
+[14:10:19] Excluding      : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/assets/font/OpenSans-Light-webfont.ttf
+[14:10:19] Excluding      : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/assets/font/OpenSans-Light-webfont.woff
+[14:10:19] Excluding      : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/assets/font/OpenSans-Regular-webfont.eot
+[14:10:19] Excluding      : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/assets/font/OpenSans-Regular-webfont.svg
+[14:10:19] Excluding      : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/assets/font/OpenSans-Regular-webfont.ttf
+[14:10:19] Excluding      : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/assets/font/OpenSans-Regular-webfont.woff
+[14:10:19] Excluding      : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/assets/icon/percolate.eot
+[14:10:19] Excluding      : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/assets/icon/percolate.svg
+[14:10:19] Excluding      : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/assets/icon/percolate.ttf
+[14:10:19] Excluding      : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/assets/icon/percolate.woff
+[14:10:19] Excluding      : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/stories/assets/code-brackets.svg
+[14:10:19] Excluding      : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/stories/assets/colors.svg
+[14:10:19] Excluding      : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/stories/assets/comments.svg
+[14:10:19] Excluding      : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/stories/assets/direction.svg
+[14:10:19] Excluding      : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/stories/assets/flow.svg
+[14:10:19] Excluding      : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/stories/assets/plugin.svg
+[14:10:19] Excluding      : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/stories/assets/repo.svg
+[14:10:19] Excluding      : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/stories/assets/stackalt.svg
+[14:10:19] Searching package.json file
+[14:10:19] package.json file found
+[14:10:19] Processing package.json dependencies
+[14:10:19] Searching README.md, CHANGELOG.md, CONTRIBUTING.md, LICENSE.md, TODO.md files
+[14:10:19] README.md file found
+[14:10:19] Error during C:\Users\hristofor.kostadinov\Test Projects\Storybook\taskbox\CHANGELOG read
+[14:10:19] Continuing without CHANGELOG.md file
+[14:10:19] Error during C:\Users\hristofor.kostadinov\Test Projects\Storybook\taskbox\CONTRIBUTING read
+[14:10:19] Continuing without CONTRIBUTING.md file
+[14:10:19] LICENSE.md file found
+[14:10:19] Error during C:\Users\hristofor.kostadinov\Test Projects\Storybook\taskbox\TODO read
+[14:10:19] Continuing without TODO.md file
+[14:10:19] Get dependencies data
+[14:10:20] parsing        : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/.storybook/preview.ts
+[14:10:20] found          : preview
+[14:10:20] parsing        : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/main.ts
+[14:10:20] parsing        : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/polyfills.ts
+[14:10:20] parsing        : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/app/app.component.ts
+[14:10:20] found          : AppComponent
+[14:10:20] parsing        : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/app/app.module.ts
+[14:10:20] found          : AppModule
+[14:10:20]                : - imports:
+[14:10:20]                : 	- BrowserModule
+[14:10:20]                : 	- TaskModule
+[14:10:20]                : 	- NgxsModule
+[14:10:20]                : 	- NgxsReduxDevtoolsPluginModule
+[14:10:20]                : 	- NgxsLoggerPluginModule
+[14:10:20]                : - declarations:
+[14:10:20]                : 	- AppComponent
+[14:10:20]                : 	- InboxScreenComponent
+[14:10:20]                : 	- PureInboxScreenComponent
+[14:10:20]                : - bootstrap:
+[14:10:20]                : 	- AppComponent
+[14:10:20] parsing        : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/environments/environment.prod.ts
+[14:10:20] found          : environment
+[14:10:20] parsing        : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/environments/environment.ts
+[14:10:20] found          : environment
+[14:10:20] parsing        : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/stories/button.component.ts
+[14:10:20] found          : ButtonComponent
+[14:10:20]                : - imports:
+[14:10:20]                : 	- CommonModule
+[14:10:20] parsing        : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/stories/Button.stories.ts
+[14:10:20] found          : meta
+[14:10:20] found          : Story
+[14:10:20] found          : Primary
+[14:10:20] found          : Secondary
+[14:10:20] found          : Large
+[14:10:20] found          : Small
+[14:10:20] parsing        : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/stories/header.component.ts
+[14:10:20] found          : HeaderComponent
+[14:10:20] parsing        : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/stories/Header.stories.ts
+[14:10:20] found          : meta
+[14:10:20] found          : Story
+[14:10:20] found          : LoggedIn
+[14:10:20] found          : LoggedOut
+[14:10:20] parsing        : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/stories/page.component.ts
+[14:10:20] found          : PageComponent
+[14:10:20] parsing        : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/stories/Page.stories.ts
+[14:10:20] found          : meta
+[14:10:20] found          : Story
+[14:10:20] found          : LoggedOut
+[14:10:20] found          : LoggedIn
+[14:10:20] parsing        : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/stories/User.ts
+[14:10:20] found          : User
+[14:10:20] parsing        : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/app/components/inbox-screen.component.ts
+[14:10:20] found          : InboxScreenComponent
+[14:10:20] parsing        : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/app/components/pure-inbox-screen.component.ts
+[14:10:20] found          : PureInboxScreenComponent
+[14:10:20] parsing        : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/app/components/pure-inbox-screen.stories.ts
+[14:10:20] found          : meta
+[14:10:20] found          : Story
+[14:10:20] found          : Default
+[14:10:20] found          : Error
+[14:10:20] found          : WithInteractions
+[14:10:20] parsing        : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/app/components/pure-task-list.component.ts
+[14:10:20] found          : PureTaskListComponent
+[14:10:20] parsing        : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/app/components/pure-task-list.stories.ts
+[14:10:20] found          : meta
+[14:10:20] found          : Story
+[14:10:20] found          : Default
+[14:10:20] found          : WithPinnedTasks
+[14:10:20] found          : Loading
+[14:10:20] found          : Empty
+[14:10:20] parsing        : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/app/components/task-list.component.ts
+[14:10:20] found          : TaskListComponent
+[14:10:20] parsing        : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/app/components/task.component.ts
+[14:10:20] found          : TaskComponent
+[14:10:20] parsing        : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/app/components/task.module.ts
+[14:10:20] found          : TaskModule
+[14:10:20]                : - imports:
+[14:10:20]                : 	- CommonModule
+[14:10:20]                : 	- NgxsModule
+[14:10:20]                : - exports:
+[14:10:20]                : 	- TaskComponent
+[14:10:20]                : 	- TaskListComponent
+[14:10:20]                : - declarations:
+[14:10:20]                : 	- TaskComponent
+[14:10:20]                : 	- TaskListComponent
+[14:10:20]                : 	- PureTaskListComponent
+[14:10:20] parsing        : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/app/components/task.stories.ts
+[14:10:20] found          : actionsData
+[14:10:20] found          : meta
+[14:10:20] found          : Story
+[14:10:20] found          : Default
+[14:10:20] found          : Pinned
+[14:10:20] found          : Archived
+[14:10:20] parsing        : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/app/models/task.model.ts
+[14:10:20] found          : Task
+[14:10:20] parsing        : C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/app/state/task.state.ts
+[14:10:20] found          : actions
+[14:10:20] found          : ArchiveTask
+[14:10:20] found          : PinTask
+[14:10:20] found          : AppError
+[14:10:20] found          : defaultTasks
+[14:10:20] found          : TaskStateModel
+[14:10:20] found          : TasksState
+[14:10:20] -------------------
+[14:10:20] Project statistics 
+[14:10:20] - files      : 26
+[14:10:20] - module     : 2
+[14:10:20] - component  : 9
+[14:10:20] - injectable : 1
+[14:10:20] - class      : 3
+[14:10:20] - interface  : 3
+[14:10:20] -------------------
+[14:10:20] Prepare components
+[14:10:20]  ButtonComponent has styleUrls, include them
+[14:10:20]  HeaderComponent has styleUrls, include them
+[14:10:20]  PageComponent has styleUrls, include them
+[14:10:20] Prepare modules
+[14:10:20] Prepare injectables
+[14:10:20] Prepare classes
+[14:10:20] Prepare interfaces
+[14:10:20] Prepare miscellaneous
+[14:10:20] Process documentation coverage report
+[14:10:20] Generating documentation in export format json
+[14:10:20] Documentation generated in ./ in 3.823 seconds
+info => Cleaning outputDir: C:\Users\HRISTO~1.KOS\AppData\Local\Temp\chromatic--17452-KzXvCEInKT5F
+
+info => Loading presets
+info => Building manager..
+info => Manager built (2.97 s)
+info => Building preview..
+info => Copying static files: C:\Users\hristofor.kostadinov\Test Projects\Storybook\taskbox\node_modules\@storybook\manager\static at C:\Users\HRISTO~1.KOS\AppData\Local\Temp\chromatic--17452-KzXvCEInKT5F\sb-common-assets
+info Using Babel compiler
+info Addon-docs: using MDX2
+info => Using implicit CSS loaders
+info => Using angular browser target options from "taskbox:build"
+info => Using angular project with "tsConfig:C:\Users\hristofor.kostadinov\Test Projects\Storybook\taskbox\.storybook\tsconfig.json"
+info => Using default Webpack5 setup
+WARN C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/app/app.component.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/app/app.module.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/app/components/inbox-screen.component.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/environments/environment.prod.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/environments/environment.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/main.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/polyfills.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/stories/Button.stories.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/stories/Header.stories.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/stories/Page.stories.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/stories/User.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/stories/button.component.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/stories/header.component.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/hristofor.kostadinov/Test Projects/Storybook/taskbox/src/stories/page.component.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).
+WARN This can impact web performance.
+WARN Assets: 
+WARN   493.1f797d15.iframe.bundle.js (816 KiB)
+WARN   433.b0969e3c.iframe.bundle.js (796 KiB)
+WARN   841.2ddd4272.iframe.bundle.js (583 KiB)
+WARN   117.17c94900.iframe.bundle.js (2.53 MiB)
+WARN   947.77bdc1e3.iframe.bundle.js (877 KiB)
+WARN entrypoint size limit: The following entrypoint(s) combined asset size exceeds the recommended limit (244 KiB). This can impact web performance.
+WARN Entrypoints:
+WARN   main (2.64 MiB)
+WARN       runtime~main.4cb13f39.iframe.bundle.js
+WARN       117.17c94900.iframe.bundle.js
+WARN       main.72b66c21c40c5a5549a1.css
+WARN       main.79eddca6.iframe.bundle.js
+WARN 
+info => Preview built (4.5 min)
+info => Output directory: C:\Users\HRISTO~1.KOS\AppData\Local\Temp\chromatic--17452-KzXvCEInKT5F
